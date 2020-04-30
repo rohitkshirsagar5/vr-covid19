@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b8ac635.chunk.css",
-    "main.js": "/static/js/main.ad276a13.chunk.js",
-    "main.js.map": "/static/js/main.ad276a13.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b24a453f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b24a453f.js.map",
-    "static/css/2.47271137.chunk.css": "/static/css/2.47271137.chunk.css",
-    "static/js/2.e9a5c38e.chunk.js": "/static/js/2.e9a5c38e.chunk.js",
-    "static/js/2.e9a5c38e.chunk.js.map": "/static/js/2.e9a5c38e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.aa7c75380778144a2655451abb98bfe5.js": "/precache-manifest.aa7c75380778144a2655451abb98bfe5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.47271137.chunk.css.map": "/static/css/2.47271137.chunk.css.map",
-    "static/css/main.1b8ac635.chunk.css.map": "/static/css/main.1b8ac635.chunk.css.map",
-    "static/js/2.e9a5c38e.chunk.js.LICENSE.txt": "/static/js/2.e9a5c38e.chunk.js.LICENSE.txt",
-    "static/media/earth-night.jpg": "/static/media/earth-night.5350543d.jpg",
-    "static/media/night-sky.png": "/static/media/night-sky.1701d635.png",
-    "static/media/index.css": "/static/media/roboto-latin-900italic.ebf6d164.woff2"
+    "main.css": "./static/css/main.1b8ac635.chunk.css",
+    "main.js": "./static/js/main.7ebdf9b6.chunk.js",
+    "main.js.map": "./static/js/main.7ebdf9b6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.c6b5ecee.js",
+    "runtime-main.js.map": "./static/js/runtime-main.c6b5ecee.js.map",
+    "static/css/2.43a1c8b7.chunk.css": "./static/css/2.43a1c8b7.chunk.css",
+    "static/js/2.12de2437.chunk.js": "./static/js/2.12de2437.chunk.js",
+    "static/js/2.12de2437.chunk.js.map": "./static/js/2.12de2437.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.b74526a8338c9ebcb89aff8156a93637.js": "./precache-manifest.b74526a8338c9ebcb89aff8156a93637.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.43a1c8b7.chunk.css.map": "./static/css/2.43a1c8b7.chunk.css.map",
+    "static/css/main.1b8ac635.chunk.css.map": "./static/css/main.1b8ac635.chunk.css.map",
+    "static/js/2.12de2437.chunk.js.LICENSE.txt": "./static/js/2.12de2437.chunk.js.LICENSE.txt",
+    "static/media/earth-night.jpg": "./static/media/earth-night.5350543d.jpg",
+    "static/media/night-sky.png": "./static/media/night-sky.1701d635.png",
+    "static/media/index.css": "./static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.b24a453f.js",
-    "static/css/2.47271137.chunk.css",
-    "static/js/2.e9a5c38e.chunk.js",
+    "static/js/runtime-main.c6b5ecee.js",
+    "static/css/2.43a1c8b7.chunk.css",
+    "static/js/2.12de2437.chunk.js",
     "static/css/main.1b8ac635.chunk.css",
-    "static/js/main.ad276a13.chunk.js"
+    "static/js/main.7ebdf9b6.chunk.js"
   ]
 }
